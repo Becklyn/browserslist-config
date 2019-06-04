@@ -1,0 +1,13 @@
+{
+    "name": "@becklyn/browserslist-config",
+    "description": "Becklyn Studios' global browserlist config.",
+    "license": "BSD-3-Clause",
+    "author": "Becklyn Studios <hello@becklyn.com>",
+    "homepage": "https://github.com/Becklyn/browserslist-config",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/Becklyn/browserslist-config.git"
+    },
+    "version": "1.0.0",
+    "main": "index.js"
+}

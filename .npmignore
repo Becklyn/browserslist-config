@@ -1,0 +1,9 @@
+.DS_Store
+/.circleci
+/.github
+/.idea
+/.travis.yml
+/.vscode
+/CHANGELOG.md
+/tests
+/UPGRADE.md
