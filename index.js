@@ -1,1 +1,4 @@
-module.exports = "last 2 versions and > 1% and not OperaMini all, IE 11";
+const envs = require("./envs");
+
+// export legacy by default, just to be safe.
+module.exports = envs.legacy;
